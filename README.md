@@ -1,8 +1,5 @@
 ##  Hi👋 I'm just a tiny toon - Mario cartoon 
 
-
-
--------
 ### Frontend Developer 
 -------
 
