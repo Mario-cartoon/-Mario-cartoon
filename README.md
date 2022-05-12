@@ -1,9 +1,9 @@
-# 👻 Mario-cartoon 🦄
-### Frontend Developer 
+##  Hi👋 I'm just a tiny toon - Mario cartoon 
+
 
 
 -------
-##### Hi👋, I'm just a tiny toon - Mario cartoon
+### Frontend Developer 
 -------
 
 ### Contact me:
@@ -19,7 +19,7 @@
 
 
 -------
-### 🚀 Skills: 
+## 🚀 Skills: 
 <p>
       <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="postgre" width="45" height="55"/>
