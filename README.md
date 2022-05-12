@@ -1,7 +1,9 @@
 # 👻 Mario-cartoon 🦄
-
 ### Frontend Developer 
-Hi👋, I'm just a tiny toon - Mario cartoon
+
+
+-------
+##### Hi👋, I'm just a tiny toon - Mario cartoon
 -------
 
 ### Contact me:
