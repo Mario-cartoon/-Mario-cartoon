@@ -24,7 +24,9 @@
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="nginx" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="postman"   height="55"/>
       <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="nginx" width="45" height="55"/>
-  
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tw" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxt"   height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="ts" width="45" height="55"/>
   
 </p>
 
